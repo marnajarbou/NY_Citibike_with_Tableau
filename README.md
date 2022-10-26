@@ -15,3 +15,7 @@ I came up with the concept to see Des Moines similarly after taking a bike tour 
 - There was a pattern of predominantly male customers utilizing the bikes between the hours of 7 and 9 in the morning and between 5 and 7 in the evening. This can be local people traveling to work.
 - According to the analysis, using a bike to commute and experience the city is practical for both New Yorkers and tourists.
 - The starttime was dominated by famous city landmarks, and most of the cyclists were men.
+
+### Future Analysis 
+- New York is a significant tourist destination and a center for commerce. It would be beneficial to investigate the demographics of Des Moines and whether or not residents are amenable to the idea of biking to work.
+- Examining data from multiple months to determine how Citi Bike is utilized depending on the weather.
